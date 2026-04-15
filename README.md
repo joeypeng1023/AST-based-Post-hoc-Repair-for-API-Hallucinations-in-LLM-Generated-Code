@@ -258,7 +258,7 @@ df = Dataframe()                 # → df = DataFrame()
 ## 👥 Team Members
 
 - **Group 24**: SDSC 8007 Midterm Project
-- **Course**: SDSC 8007 - Advanced Topics in Data Science
+- **Course**: SDSC 8007 - Deep Learning
 - **Institution**: City University of Hong Kong
 - **Semester**: Spring 2026
 
